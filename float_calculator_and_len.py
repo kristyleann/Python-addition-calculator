@@ -11,12 +11,8 @@ print(result)
 
 input('Press ENTER to continue for a surprise')
 
-
 x = str(result)
-# print(len(x))
-
 y = str(len(x)) 
-
 
 print("Your number is " + y + " characters long!")
 
