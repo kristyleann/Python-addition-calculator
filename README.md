@@ -1,2 +1,1 @@
-# python_addition_calculator
-My first Python project.
+This is the first thing I've ever done in Python so it's nothing special. Just a calculator that adds two numbers, tells you the result, and then gives you the length of the result. And then insults you a little because why not?
